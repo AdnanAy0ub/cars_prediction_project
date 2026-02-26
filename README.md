@@ -50,6 +50,6 @@ Hope you enjoy this Project and it may help you in one way or the other.
 
 Feel free to connect with me at my socials
 linkedin: www.linkedin.com/in/adnan-ayoub-dar-5ba528267
-instagram: @adnanayoub_
+instagram: https://www.instagram.com/adnanayoub_/
 
 Thanks.
